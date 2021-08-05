@@ -1,7 +1,9 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/pZY6d0S.mp4" width="200" height="200"/>
   <p align="center">
+<img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
+</p>
+ <p align="center">
 <a href="#"><img title="JulieMwol" src="https://img.shields.io/badge/JulieMwol-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
