@@ -1,4 +1,12 @@
-
+<!-- Typing SVG -->
+<p align="center">
+    <a href="https://git.io/J0hKr">
+        <img
+##          src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Farhan+Dqz+Profile."
+            alt="Typing SVG"
+        />
+    </a>
+</p>
 <div align="center">
   <p align="center">
 <img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
