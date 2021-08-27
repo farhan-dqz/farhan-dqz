@@ -1,8 +1,8 @@
-<!-- Typing SVG -->
+## <!-- Typing SVG -->
 <p align="center">
     <a href="https://git.io/J0hKr">
         <img
-##          src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Farhan+Dqz+Profile."
+        src="https://readme-typing-svg.herokuapp.com?size=30&width=800&lines=Welcome+To+Farhan+Dqz+Profile."
             alt="Typing SVG"
         />
     </a>
@@ -34,4 +34,4 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xxirfanx&theme=dark" alt="farhan-dqz" /></p>
 </p>
-
+ 
