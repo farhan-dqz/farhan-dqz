@@ -1,7 +1,7 @@
 
 <div align="center">
   <p align="center">
-<img src="https://media.giphy.com/media/Uhl43Qa5QbhKglX8DX/giphy.gif" alt="GIF" width="128" height="128"/>
+<img src="https://media.giphy.com/media/uCo5C38qb7ZtegrgB5/giphy-downsized-large.gif?cid=790b7611df0f46f0b877d65457f1485c28e1da06f5b30040&rid=giphy-downsized-large.gif&ct=g" alt="GIF" width="128" height="128"/>
 </p>
  <p align="center">
 <a href="#"><img title="FARHANDQZ" src="https://img.shields.io/badge/FARHAN-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
