@@ -26,6 +26,8 @@ Project created by <a href="https://github.com/farhan-dqz">Farhan-dqz</a> to mak
     <br> 
 </p>
 
+![Profile views](https://gpvc.arturio.dev/quiec) ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/&title=Profile%20Views)
+
 ----
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-dqz&show_icons=true&theme=dark&locale=en&layout=compact" alt="farhan-dqz" /></p>
