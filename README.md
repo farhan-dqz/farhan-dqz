@@ -11,8 +11,9 @@
   <p align="center">
 <img src="https://media.giphy.com/media/4dM1U76aAQ3dbE6bc3/giphy.gif" alt="GIF" width="128" height="128"/>
 </p>
+<p>
 ![Profile Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/farhan-dqz/JulieMwol&title=Profile%20Views)
-
+</p>
 ----
 <p align="center">
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=farhan-dqz&show_icons=true&theme=dark&locale=en&layout=compact" alt="farhan-dqz" /></p>
